@@ -1,7 +1,6 @@
 # palidrome
 
-A new Flutter application.
-
+Application to test if an integer is a palindrome
 ## Getting Started
 
 This project is a starting point for a Flutter application.
